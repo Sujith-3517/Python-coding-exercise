@@ -1,4 +1,3 @@
-# NOTE: This script runs only on your local IDE
 import PySimpleGUI as sg
 from converters import convert
 
